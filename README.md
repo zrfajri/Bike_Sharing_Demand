@@ -140,8 +140,4 @@ Some recommendation that can be used to improved the model, such as:
 
 Find more information about this project on the following [Jupyter Notebook](https://github.com/zrfajri/Capstone3_Bike_Sharing_Demand/blob/37108d5363ad18e254f3e590d40892aec957a2ef/M3S20-5%20CAP%20MODULE%203.ipynb)
 ___
-  
-  
-The image below displays the **Entity Relationship Diagram (ERD)** of Northwind Traders. <br>
-
 
